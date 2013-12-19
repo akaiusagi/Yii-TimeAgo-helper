@@ -10,7 +10,7 @@
  *
  * @version 0.1
  *
- * @link
+ * @link https://github.com/akaiusagi/Yii-TimeAgo-helper
  */
 class TimeAgo
 {
