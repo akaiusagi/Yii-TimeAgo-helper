@@ -52,7 +52,7 @@ class TimeAgo
 		}
 		elseif($diff == 0)
 		{
-			return 'Только что';
+			return Yii::t('time_ago', 'Just now');
 		}
 		else
 		{
